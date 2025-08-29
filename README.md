@@ -16,3 +16,6 @@ python src/main.py
 ```
 
 El programa mostrará un mensaje de saludo y pedirá al usuario que ingrese su nombre, mostrando luego el nombre ingresado.
+
+---
+**Autor:** Leodan
